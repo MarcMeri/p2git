@@ -1,0 +1,8 @@
+# Ignorar arxius .log
+*.log
+
+# Ignorar la carpeta tmp/ 
+tmp/
+
+# Ignorar config.private.txt
+config.private.txt
